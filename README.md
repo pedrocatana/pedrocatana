@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/pedrocatana/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/pedrocatana/b048d65c0dc7593cabae6cf2eee952a2/raw/40c53569d64e42bb96badafa25ba43d0a43f86f5/gihubcard.svg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrocatana&color=red" alt="Profile views" /> </p>
 
 - 🔥 Start programming 
