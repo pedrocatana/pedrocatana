@@ -12,6 +12,12 @@
 
 - 💬 Ask me about **HTML, CSS, Node.JS, PYTHON**
 
+-
+
+-
+
+-
+
 
   
   
