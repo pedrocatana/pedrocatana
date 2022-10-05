@@ -7,7 +7,7 @@ Pedro Catana
 
 - 🔥 Start programming 
 
-- 🔭 I’m currently working at .
+- 🔭 I’m currently working at 
 
 - 💬 Ask me about **HTML, CSS, Node.JS, PYTHON**...
 
