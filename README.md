@@ -13,7 +13,7 @@
 - 💬 Ask me about **HTML, CSS, Node.JS, PYTHON**
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/pedrocatana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrocatana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
