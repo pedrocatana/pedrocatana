@@ -10,7 +10,7 @@ Hello,
 
 - 🔭 I’m currently working at 
 
-- 💬 Ask me about **HTML, CSS, Node.JS, PYTHON**...
+- 💬 Ask me about **HTML, CSS, Node.JS, PYTHON**
 
 
 <br> <br> 
