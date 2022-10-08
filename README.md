@@ -1,5 +1,5 @@
 <br>
-<img align="right" height="320em" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
+<img align="right" height="320em" src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy-downsized-large.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrocatana&color=red" alt="Profile views" /> </p>
 Hello,
 
