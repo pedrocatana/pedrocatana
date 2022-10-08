@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/pedrocatana/b048d65c0dc7593cabae6cf2eee952a2/raw/40c53569d64e42bb96badafa25ba43d0a43f86f5/gihubcard.svg"/>
+<img align="right" height="480em" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrocatana&color=red" alt="Profile views" /> </p>
 Hello,
 
