@@ -8,7 +8,7 @@ Hello,
 
 - 🔥 Start programming 
 
-- 🔭 I’m currently working at 
+
 
 
 <br> <br> 
